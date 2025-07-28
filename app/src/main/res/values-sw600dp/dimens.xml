@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spacing_16dp">16dp</dimen>
+    <dimen name="spacing_8dp">8dp</dimen>
+    <dimen name="spacing_4dp">4dp</dimen>
+
+    <dimen name="txt_18sp">18sp</dimen>
+    <dimen name="txt_12sp">12sp</dimen>
+
+    <item name="dialog_width_percentage" type="dimen" format="float">0.6</item>
+</resources>

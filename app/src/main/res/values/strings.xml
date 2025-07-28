@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hamburger Test</string>
+    <string name="vegan">Vegan</string>
+    <string name="hot">Hot</string>
+    <string name="available">Available</string>
+    <string name="not_available">Not available</string>
+    <string name="price">Price</string>
+    <string name="high">High</string>
+    <string name="low">Low</string>
+    <string name="rating">Rating</string>
+    <string name="type">Type</string>
+    <string name="non_vegan">Non vegan</string>
+    <string name="flavor">Flavor</string>
+    <string name="not_hot">Not hot</string>
+    <string name="apply">Apply</string>
+    <string name="reset">Reset</string>
+    <string name="availability">Availability</string>
+</resources>
